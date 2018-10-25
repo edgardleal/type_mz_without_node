@@ -1,6 +1,6 @@
 {
     "name": "type_mz_without_node",
-    "version": "0.0.32",
+    "version": "0.0.33",
     "description": "TypeScript definitions for mz",
     "license": "MIT",
     "contributors": [
