@@ -1,0 +1,22 @@
+{
+    "name": "type_mz_without_node",
+    "version": "0.0.32",
+    "description": "TypeScript definitions for mz",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Thomas Hickman",
+            "url": "https://github.com/ThomasHickman",
+            "githubUsername": "ThomasHickman"
+        }
+    ],
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {
+    },
+    "typeScriptVersion": "2.0"
+}
